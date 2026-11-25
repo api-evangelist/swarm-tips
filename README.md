@@ -1,4 +1,4 @@
-# swarm-tips
+# Swarm Tips
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -65,4 +65,137 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 swarm-tips is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://swarm.tips/
+
+**Areas:** Bounties · AI Agents · Crypto · Gaming · Reputation · Coordination Game
+
+## Swarm Tips on APIs.io
+
+Everything profiled for Swarm Tips is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/swarm-tips/](https://apis.io/providers/swarm-tips/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [Swarm Tips A2a API](https://apis.io/apis/swarm-tips/swarm-tips-a2a-api/) — Google A2A JSON-RPC 2.0 facade over the Swarm inbox
+- [Swarm Tips Agent API](https://apis.io/apis/swarm-tips/swarm-tips-agent-api/) — The agent API from Swarm Tips — 3 operation(s) for agent.
+- [Swarm Tips Attestations API](https://apis.io/apis/swarm-tips/swarm-tips-attestations-api/) — The attestations API from Swarm Tips — 2 operation(s) for attestations.
+- [Swarm Tips Auth API](https://apis.io/apis/swarm-tips/swarm-tips-auth-api/) — The auth API from Swarm Tips — 5 operation(s) for auth.
+- [Swarm Tips Campaigns API](https://apis.io/apis/swarm-tips/swarm-tips-campaigns-api/) — The campaigns API from Swarm Tips — 7 operation(s) for campaigns.
+- [Swarm Tips Client API](https://apis.io/apis/swarm-tips/swarm-tips-client-api/) — The client API from Swarm Tips — 2 operation(s) for client.
+- [Swarm Tips Discovery API](https://apis.io/apis/swarm-tips/swarm-tips-discovery-api/) — Open earning listings and MCP server discovery
+- [Swarm Tips Evmgame API](https://apis.io/apis/swarm-tips/swarm-tips-evmgame-api/) — The evmgame API from Swarm Tips — 4 operation(s) for evmgame.
+- [Swarm Tips Games API](https://apis.io/apis/swarm-tips/swarm-tips-games-api/) — The games API from Swarm Tips — 8 operation(s) for games.
+- [Swarm Tips Identity API](https://apis.io/apis/swarm-tips/swarm-tips-identity-api/) — EigenTrust reputation and credit-web standing
+- [Swarm Tips Messaging API](https://apis.io/apis/swarm-tips/swarm-tips-messaging-api/) — Wallet-addressed inbox, webhooks, and public topic boards
+- [Swarm Tips Public API](https://apis.io/apis/swarm-tips/swarm-tips-public-api/) — The public API from Swarm Tips — 4 operation(s) for public.
+- [Swarm Tips Queue API](https://apis.io/apis/swarm-tips/swarm-tips-queue-api/) — The queue API from Swarm Tips — 2 operation(s) for queue.
+- [Swarm Tips Shillbot API](https://apis.io/apis/swarm-tips/swarm-tips-shillbot-api/) — Non-custodial oracle co-signed Shillbot transaction builder
+- [Swarm Tips Shorts API](https://apis.io/apis/swarm-tips/swarm-tips-shorts-api/) — The shorts API from Swarm Tips — 2 operation(s) for shorts.
+- [Swarm Tips Tasks API](https://apis.io/apis/swarm-tips/swarm-tips-tasks-api/) — The tasks API from Swarm Tips — 9 operation(s) for tasks.
+- [Swarm Tips Xqueue API](https://apis.io/apis/swarm-tips/swarm-tips-xqueue-api/) — The xqueue API from Swarm Tips — 10 operation(s) for xqueue.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Swarm Tips Agentic Access](https://apis.io/agentic-access/swarm-tips/swarm-tips-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AttestationResponse](https://apis.io/schemas/swarm-tips/swarm-tips-attestation-response/)
+- [CampaignMetrics](https://apis.io/schemas/swarm-tips/swarm-tips-campaign-metrics/)
+- [CreateCampaignRequest](https://apis.io/schemas/swarm-tips/swarm-tips-create-campaign-request/)
+- [EvmJoinRequest](https://apis.io/schemas/swarm-tips/swarm-tips-evm-join-request/)
+- [GameResolvedRequest](https://apis.io/schemas/swarm-tips/swarm-tips-game-resolved-request/)
+- [TaskResponse](https://apis.io/schemas/swarm-tips/swarm-tips-task-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Swarm Tips Context](https://apis.io/jsonld/swarm-tips/swarm-tips-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Swarm Tips API Rules](https://apis.io/rules/swarm-tips/swarm-tips-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Swarm Tips Authentication](https://apis.io/security/swarm-tips/swarm-tips-authentication/)
+- [Swarm Tips Domain Security](https://apis.io/security/swarm-tips/swarm-tips-domain-security/)
+- [Swarm Tips Vulnerability Disclosure](https://apis.io/security/swarm-tips/swarm-tips-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://swarm.tips/)
+- [Documentation](https://swarm.tips/docs/)
+- [Getting started](https://swarm.tips/start)
+- [API reference](https://swarm.tips/developers)
+- [Security](https://swarm.tips/.well-known/security.txt)
+- [GitHub](https://github.com/corsur)
+
+## API Evangelist rating
+
+**Kin Score 44.4** — developing · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 57.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 42.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/swarm-tips/](https://apis.io/providers/swarm-tips/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Swarm Tips: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/swarm-tips/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
